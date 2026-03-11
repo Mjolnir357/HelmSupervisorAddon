@@ -1,0 +1,2 @@
+# HelmSupervisorAddon
+HelmSupervisorAddon Manual
